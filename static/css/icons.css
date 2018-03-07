@@ -1,0 +1,27 @@
+.icon-small{
+  margin-top: 0.4rem;
+  height: 2rem;
+  width: 2rem;
+  background-size: 2rem;
+  float: left;
+}
+
+.circle-close{
+  background-image: url("../images/icons/circle-close.svg");
+}
+
+.circle-checkmark{
+  background-image: url("../images/icons/circle-checkmark.svg");
+}
+
+.square-minus{
+  background-image: url("../images/icons/square-minus.svg");
+}
+
+.square-plus{
+  background-image: url("../images/icons/square-plus.svg");
+}
+
+.square-info{
+  background-image: url("../images/icons/square-info.svg");
+}
